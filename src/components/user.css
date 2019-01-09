@@ -1,0 +1,7 @@
+.table td{
+    text-align: end;
+}
+
+.table th{
+    text-align: start;
+}
